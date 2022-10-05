@@ -19,7 +19,7 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
  --purple: #664390;
  --red: #FA4843;
  
- --cubezier: 6s cubic-bezier(.52,.02,0,1.02) infinite;
+ --cubezier: 7s cubic-bezier(.52,.02,0,1.02) infinite;
 }
 
 body {
@@ -28,7 +28,7 @@ body {
  justify-content: center;
  height: 100vh;
  background-color: var(--yellow);
- animation: bgRed ease-out 6s infinite;
+ animation: bgRed ease-out 7s infinite;
 }
 
 .devices {
